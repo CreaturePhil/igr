@@ -1,4 +1,4 @@
-CFLAGS=-Wall -Wextra -pedantic
+CFLAGS=-Wall -Wextra -pedantic -O2
 
 igr: igr.c
 	$(CC) $(CFLAGS) igr.c -g -lcurl -o igr
