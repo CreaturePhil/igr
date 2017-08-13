@@ -10,7 +10,7 @@ Install [libcurl](https://curl.haxx.se/download.html) or if on a Debian OS type 
 $ sudo apt-get install libcurl4-gnutls-dev
 ```
 
-Then type this:
+Then to build and install type this:
 
 ```bash
 $ make
